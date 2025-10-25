@@ -19,15 +19,15 @@ using XRFusion;
 
 Properties
 
+**Must be set manually** - XRGrabInteractable - The main XRGrabInteractible component.
 ```csharp
 NetworkedGrabInteractible.interactible
 ```
-**Must be set manually** - XRGrabInteractable - the main XRGrabInteractible component
 
+bool - Returns if the interactible is cuurently selected.
 ```csharp
 NetworkedGrabInteractible.isSelected
 ```
-bool - returns if the interactible is being held
 
 ## Other info
 
