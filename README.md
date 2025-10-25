@@ -13,9 +13,9 @@ https://github.com/HuhMonk/XRInputs for getting inputs from the xr controllers
 using XRFusion;
 ```
 
-### Components
+## Components
 
-## NetworkedGrabInteractible
+### NetworkedGrabInteractible
 
 Properties
 
