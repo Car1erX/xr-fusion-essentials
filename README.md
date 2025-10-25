@@ -1,15 +1,15 @@
-# xr-fusion-essentials
+# XR Fusion Essentials
 Some XR interaction toolkit features networked with Photon Fusion 2
 
 ## Documentation
 
-###Assembly
+Assembly
 
 ```csharp
 using XRFusion;
 ```
 
-###Components
+Components
 
 ```csharp
 XRFusion.NetworkedGrabInteractible
