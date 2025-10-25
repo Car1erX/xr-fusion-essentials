@@ -1,13 +1,13 @@
 # XR Fusion Essentials
 Some XR interaction toolkit features networked with Photon Fusion 2
 
-## Documentation
+# Documentation
 
 Dependencies
 
 https://github.com/HuhMonk/XRInputs for getting inputs from the xr controllers
 
-### Assembly
+## Assembly
 
 ```csharp
 using XRFusion;
@@ -15,7 +15,7 @@ using XRFusion;
 
 ## Components
 
-### NetworkedGrabInteractible
+## NetworkedGrabInteractible
 
 Properties
 
