@@ -15,7 +15,7 @@ using XRFusion;
 
 ### Components
 
-##NetworkedGrabInteractible
+## NetworkedGrabInteractible
 
 Properties
 
