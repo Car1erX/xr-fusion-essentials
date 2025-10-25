@@ -3,7 +3,7 @@ Some XR interaction toolkit features networked with Photon Fusion 2
 
 # Documentation
 
-Dependencies
+## Dependencies
 
 https://github.com/HuhMonk/XRInputs for getting inputs from the xr controllers
 
@@ -14,6 +14,20 @@ using XRFusion;
 ```
 
 ## Components
+
+## NetworkedGrabInteractible
+
+Properties
+
+**Must be set manually** - XRGrabInteractable - The main XRGrabInteractible component.
+```csharp
+NetworkedGrabInteractible.interactible
+```
+
+bool - Returns if the interactible is cuurently selected.
+```csharp
+NetworkedGrabInteractible.isSelected
+```
 
 ## NetworkedGrabInteractible
 
