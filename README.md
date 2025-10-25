@@ -33,5 +33,7 @@ NetworkedGrabInteractible.isSelected
 ## Other info
 
 Developed with XR Inteaction Toolkit version 3.0.8
+
 Developed in unity version 6000.0.60f1
+
 Developed using https://github.com/rxxyn/FlowVR
