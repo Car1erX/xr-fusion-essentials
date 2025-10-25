@@ -7,7 +7,7 @@ Dependencies
 
 https://github.com/HuhMonk/XRInputs for getting inputs from the xr controllers
 
-Assembly
+### Assembly
 
 ```csharp
 using XRFusion;
@@ -15,9 +15,20 @@ using XRFusion;
 
 ### Components
 
+##NetworkedGrabInteractible
+
+Properties
+
 ```csharp
-NetworkedGrabInteractible
+NetworkedGrabInteractible.interactible
 ```
+**Must be set manually** - XRGrabInteractable - the main XRGrabInteractible component
+
+```csharp
+NetworkedGrabInteractible.isSelected
+```
+bool - returns if the interactible is being held
+
 ## Other info
 
 Developed with XR Inteaction Toolkit version 3.0.8
