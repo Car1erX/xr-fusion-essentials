@@ -3,7 +3,7 @@ Some XR interaction toolkit features networked with Photon Fusion 2
 
 ## Documentation
 
-Dependencys
+Dependencies
 
 https://github.com/HuhMonk/XRInputs for getting inputs from the xr controllers
 
